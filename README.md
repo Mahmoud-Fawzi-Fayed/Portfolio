@@ -1,7 +1,7 @@
 ## Stack
 - **Framework**: [Angular](https://angular.dev/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **Deployment**: [AWS S3](https://aws.amazon.com/s3/)
+- **Deployment**: [Firebase](https://firebase.google.com/)
 
 ## Features 📋
 ⚡️ Navbar Glassmorphism\
