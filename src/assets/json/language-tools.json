@@ -1,0 +1,61 @@
+ [{
+     "name": "HTML",
+     "url": "https://en.wikipedia.org/wiki/HTML"
+   },
+   {
+     "name": "CSS",
+     "url": "https://en.wikipedia.org/wiki/CSS"
+   },
+   {
+     "name": "JavaScript",
+     "url": "https://en.wikipedia.org/wiki/JavaScript"
+   },
+   {
+     "name": "TypeScript",
+     "url": "https://www.typescriptlang.org/"
+   },
+   {
+     "name": "SASS",
+     "url": "https://sass-lang.com/"
+   },
+   {
+     "name": "PHP",
+     "url": "https://www.php.net/"
+   },
+   {
+     "name": "Node JS",
+     "url": "https://nodejs.org/en/about"
+   },
+   {
+    "name": "Laravel",
+    "url": "https://laravel.com/"
+  },
+   {
+     "name": "Angular",
+     "url": "https://angular.dev/"
+   },
+   {
+     "name": "Bootstrap",
+     "url": "https://getbootstrap.com/"
+   },
+   {
+     "name": "Git",
+     "url": "https://git-scm.com/"
+   },
+   {
+     "name": "MySQL",
+     "url": "https://www.mysql.com/"
+   },
+   {
+     "name": "MongoDB",
+     "url": "https://www.mongodb.com/"
+   },
+   {
+     "name": "Android Studio",
+     "url": "https://developer.android.com/"
+   },
+   {
+    "name": "Firebase",
+    "url": "https://firebase.google.com/"
+  }
+ ]
